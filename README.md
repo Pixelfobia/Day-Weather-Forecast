@@ -2,7 +2,6 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ----
 ## Description
-###### [Back to Table of Contents](#Table-of-Contents)
 This webpage was created so that a user can find current conditions and a 5-day forecast for any city. The developer was tasked with using the Open Weather API to create the dashboard. Some of the development tasks included:
 
 Presenting the user with current conditions (temperature, humidity and wind speed) and the 5-day forecast.
